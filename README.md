@@ -7,7 +7,7 @@ Le projet comprendra également les étapes de traitement des données pour gér
 Enfin, nous visualiserons les résultats obtenus pour comparer la performance des deux modèles.
 
 ### Contenu du Projet
-Le projet est structuré trois grandes parties.    
+Le projet est structuré en plusieurs parties, et l'ordre est important pour comprendre l'analyse.    
 
 **Chargement et Exploration des Données**
 Dans cette première étape, nous chargerons les données médicales pour les patients et effectuerons une analyse exploratoire pour mieux comprendre la distribution des données.
