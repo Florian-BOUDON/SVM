@@ -1,4 +1,4 @@
-# Support vector machine contre régression logistique en Médecine
+# Support vector machine contre régression logistique
 
 Ce projet GitHub vise à comparer un classifier **SVM (Support Vector Machine)** avec une **Régression Logistique** dans le domaine médical.    
 L'objectif est de trier les patients en deux catégories : malades et non malades.   
