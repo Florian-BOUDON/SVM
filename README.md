@@ -13,13 +13,13 @@ Le projet est structuré en plusieurs parties, et l'ordre est important pour com
 Dans cette première étape, nous chargerons les données médicales pour les patients et effectuerons une analyse exploratoire pour mieux comprendre la distribution des données.
 
 **Traitement des données**    
-Nous effectuerons des opérations de nettoyage et de prétraitement sur les données, y compris la gestion des valeurs manquantes et la préparation des données pour la classification.
+Nous effectuerons des opérations de nettoyage et de pré-traitement sur les données, y compris la gestion des valeurs manquantes et la préparation des données pour la classification.
 
 **Standardisation des données**
 Nous standardiserons les données pour mettre toutes les variables à la même échelle et améliorer les performances des algorithmes de classification.
 
 **Classification avec SVM**   
-Nous entraînerons un classifier SVM sur les données pour trier les patients en deux catégories : malades et non malades.
+Nous entraînerons un classifieur SVM sur les données pour trier les patients en deux catégories : malades et non malades.
 
 **Classification avec régression logistique**     
 Nous entraînerons une régression logistique sur les données pour réaliser le même tri des patients en fonction de leur état de santé.
